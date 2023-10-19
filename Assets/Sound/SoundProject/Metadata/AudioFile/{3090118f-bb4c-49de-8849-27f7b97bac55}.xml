@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3090118f-bb4c-49de-8849-27f7b97bac55}">
+		<property name="assetPath">
+			<value>royalty-free-dark-space-music-for-videos-a-few-jumps-away-by-arthur-vyncke.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>230.03999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{29396d6c-5e6e-4832-90c1-0d4d12cd10a4}</destination>
+		</relationship>
+	</object>
+</objects>
